@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\0\jl\formsviewgroup.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\10\jl\notification-hubs-0.4.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\14\jl\arch-core-common.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\15\jl\arch-lifecycle-common.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\16\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\17\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\18\jl\support-annotations.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\19\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\20\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\21\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\22\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\23\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\24\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\25\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\26\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\27\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\28\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\29\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\30\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\31\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\32\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\1\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\19\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\22\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\24\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\25\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\26\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\27\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\28\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\29\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\31\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\lp\1\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\26\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\19.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\22.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\24.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\25.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\26.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\27.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\28.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\29.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\ayesh\source\repos\xamnot\xamnot\xamnot.Android\obj\Debug\lp\31.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
